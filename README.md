@@ -1,5 +1,5 @@
-# distributed algorithms, n.dulay, 29 jan 21
-# coursework, paxos made moderately complex
+# Distributed algorithms
+# Paxos Made Moderately Complex implementation in Elixir
 
 # make options for Multipaxos
 
